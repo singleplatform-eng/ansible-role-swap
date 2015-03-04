@@ -1,0 +1,4 @@
+---
+swap_directory:  "/mnt/swap"
+swap_size_in_megabytes: {{ansible_memtotal_mb}}
+swappiness_value: 60

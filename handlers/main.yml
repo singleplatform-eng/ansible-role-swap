@@ -1,0 +1,3 @@
+---
+- name: turn swap on
+  command: swapon -a
